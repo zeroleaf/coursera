@@ -124,3 +124,11 @@ Which of the following are reasons for using feature scaling?
 选项3: 特征缩放仅仅是起到了加速求解的过程, 并不能防止梯度下降求解到局部最优解.
 选项4: 特征缩放跟正规方程无关.
 """
+
+
+# 参考
+
+"""
+- `特征缩放: <https://zh.wikipedia.org/zh-cn/%E7%89%B9%E5%BE%B5%E7%B8%AE%E6%94%BE>`
+"""
+
